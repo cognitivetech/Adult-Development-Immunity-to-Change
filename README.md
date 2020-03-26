@@ -1,15 +1,15 @@
-# Constructive Developmental Theory - Immunity to Change - Subject Object Interview
+# Constructive Developmental Theory, Subject Object Relations, Immunity to Change and Related Resources
 
 
 
 ## Constructive Developmental Framework
 
+[Stages of Adult Development - wikipedia](https://en.wikipedia.org/wiki/Constructive_developmental_framework#Stages_of_adult_development)
 > * Stage 1: Purely impulse or reflex-driven (infancy and early childhood).
 > * Stage 2: The person's sense of self is ruled by their needs and wishes. The needs and wishes of others are relevant only to the extent that they support those of the person. Effectively the person and others inhabit two "separate worlds" (childhood to adolescence).
 > * Stage 3: The person's sense of self is socially determined, based on the real or imagined expectations of others (post-adolescence).
 > * Stage 4: The person's sense of self is determined by a set of values that they have authored for themselves (rarely achieved, only in adulthood).
-> * Stage 5: The person's sense of self is no longer bound to any particular aspect of themselves or their history, and they are free to allow themselves to focus on the flow of their lives.\
-[Stages of Adult Development - wikipedia](https://en.wikipedia.org/wiki/Constructive_developmental_framework#Stages_of_adult_development)
+> * Stage 5: The person's sense of self is no longer bound to any particular aspect of themselves or their history, and they are free to allow themselves to focus on the flow of their lives.
 
 * [An Introduction To Constructive Developmental Theory + Related Resources](https://www.jasonscottmontoya.com/personal-development/479-constructive-developmental-theory)
   * [My Leaders Lyceum Experience](https://www.jasonscottmontoya.com/leaders-lyceum) - 
