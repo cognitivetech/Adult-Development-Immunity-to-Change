@@ -1,4 +1,6 @@
-# Constructive Developmental Theory, Immunity to Change
+# Constructive Developmental Theory - Immunity to Change - Subject Object Interview
+
+
 
 ## Constructive Developmental Framework
 
@@ -6,7 +8,7 @@
 > * Stage 2: The person's sense of self is ruled by their needs and wishes. The needs and wishes of others are relevant only to the extent that they support those of the person. Effectively the person and others inhabit two "separate worlds" (childhood to adolescence).
 > * Stage 3: The person's sense of self is socially determined, based on the real or imagined expectations of others (post-adolescence).
 > * Stage 4: The person's sense of self is determined by a set of values that they have authored for themselves (rarely achieved, only in adulthood).
-> * Stage 5: The person's sense of self is no longer bound to any particular aspect of themselves or their history, and they are free to allow themselves to focus on the flow of their lives.
+> * Stage 5: The person's sense of self is no longer bound to any particular aspect of themselves or their history, and they are free to allow themselves to focus on the flow of their lives.\
 [Stages of Adult Development - wikipedia](https://en.wikipedia.org/wiki/Constructive_developmental_framework#Stages_of_adult_development)
 
 * [An Introduction To Constructive Developmental Theory + Related Resources](https://www.jasonscottmontoya.com/personal-development/479-constructive-developmental-theory)
@@ -30,3 +32,7 @@
 
 * [The Real Reason People Won’t Change](https://hbr.org/2001/11/the-real-reason-people-wont-change) by Robert Kegan	and Lisa Lahey 
   > Every manager is familiar with the employee who just won’t change. Sometimes it’s easy to see why—the employee fears a shift in power, the need to learn new skills, the stress of having to join a new team. In other cases, such resistance is far more puzzling. An employee has the skills and smarts to make a change with ease, has shown a deep commitment to the company, genuinely supports the change—and yet, inexplicably, does nothing.
+
+## ETC
+
+* [ConsenSys/so101_canon](https://github.com/ConsenSys/so101_canon) - Resources on self-management/organization
