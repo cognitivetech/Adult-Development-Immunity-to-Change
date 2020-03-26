@@ -16,14 +16,14 @@
   > 
   > At the heart of our meaning-making activity, the book suggests, is the drawing and redrawing of the distinction between self and other. Using Piagetian theory in a creative new way to make sense of how we make sense of ourselves, Kegan shows that each meaning-making stage is a new solution to the lifelong tension between the universal human yearning to be connected, attached, and included, on the one hand, and to be distinct, independent, and autonomous on the other.
 
-Evolutionary balance | Culture of embeddedness 
-| --- | --- | --- | 
-(0) Incorporative S: reflexes, sensing, and moving O: nothing | Mothering culture. Mothering one(s) or primary caretaker(s). 
-(1) Impulsive S: impulse and perception O: reflexes, sensing, and moving | Parenting culture. Typically, the family triangle. 
-(2) Imperial S: enduring disposition, needs, interests, wishes O: impulse and perception | Role-recognizing culture. School and family as institutions of authority and role differentiation. Peer gang which requires role-taking. 
-(3) Interpersonal S: mutuality, interpersonal concordance O: enduring disposition, needs, interests, wishes | Culture of mutuality. Mutually reciprocal one-to-one relationships. 
-(4) Institutional S: personal autonomy, self-system identity O: mutuality, interpersonal concordance | Culture of identity or self-authorship (in love or work). Typically: group involvement in career, admission to public arena. 
-(5) Interindividual S: interpenetration of systems O: personal autonomy, self-system identity | Culture of intimacy (in love and work). Typically: genuinely adult love relationship.
+| Evolutionary balance | Culture of embeddedness |
+| --- | --- |
+| (0) Incorporative S: reflexes, sensing, and moving O: nothing | Mothering culture. Mothering one(s) or primary caretaker(s).  |
+| (1) Impulsive S: impulse and perception O: reflexes, sensing, and moving | Parenting culture. Typically, the family triangle.  |
+| (2) Imperial S: enduring disposition, needs, interests, wishes O: impulse and perception | Role-recognizing culture. School and family as institutions of authority and role differentiation. Peer gang which requires role-taking. | 
+| (3) Interpersonal S: mutuality, interpersonal concordance O: enduring disposition, needs, interests, wishes | Culture of mutuality. Mutually reciprocal one-to-one relationships.  |
+| (4) Institutional S: personal autonomy, self-system identity O: mutuality, interpersonal concordance | Culture of identity or self-authorship (in love or work). Typically: group involvement in career, admission to public arena.  |
+| (5) Interindividual S: interpenetration of systems O: personal autonomy, self-system identity | Culture of intimacy (in love and work). Typically: genuinely adult love relationship. |
 
 * [Robert Kegan and Ken Wilber — The Evolving Self: Part 1](https://podcasts.apple.com/uz/podcast/robert-kegan-and-ken-wilber-the-evolving-self-part-1/id1378476230?i=1000424998309) -  Everyone Is Right [part 2](https://podcasts.apple.com/uz/podcast/robert-kegan-and-ken-wilber-the-evolving-self-part-2/id1378476230?i=1000424998310)
   > Robert Kegan, the author of The Evolving Self and In Over Our Heads, explores the vital role of interior development in creating a more inclusive and integrated world, as well as the importance of the appropriate use of discriminating awareness.
