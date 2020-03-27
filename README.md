@@ -171,6 +171,8 @@
 ## ETC
 
 * [ConsenSys/so101_canon](https://github.com/ConsenSys/so101_canon) - Resources on self-management/organization
+* [Where can I learn about evidence based personal development?](https://ask.metafilter.com/253898/Where-can-I-learn-about-evidence-based-personal-development)
+* [8 Top Learning and Development Podcasts](https://www.elucidat.com/blog/top-learning-development-podcasts/)
 
 ### Podcasts
 
@@ -199,6 +201,17 @@
   > Join Susan Coleman as she interviews Pablo Restrepo, a premier negotiation, leadership and strategy consultant. They reflect together on Pablo’s 20+ career in the trenches of working on assignments such as the Colombia-U.S. Free Trade Negotiations, working with ex-combatants from Colombian paramilitary groups, such as the FARC and M-19, and working with Susan at the UN International Criminal Court for the Former Yugoslavia (UNICTY). Pablo reflects on the question of individual consciousness as a barrier to real transformation as discussed by psychologist, Robert Kegan and spiritual teacher, Eckhart Tolle.
 * [The Amiel Show](https://amielhandelsman.com/the-amiel-show/) -
   > The Amiel Show is podcast dedicated to increasing the quality of leadership in our complex world. My listeners are leaders who hunger to increase their impact and develop their full potential as human beings—and the consultants and coaches who partner with them. This show is interview-rich. I ask executives and thought leaders to provide deep insights and actionable practices that you can use today and for the rest of your life.
+  * [Fans of Jennifer Garvey Berger, Welcome to The Amiel Show!](https://amielhandelsman.com/jennifer-garvey-berger-fans-welcome/)
+    > In Episode 3 of The Amiel Show, Jennifer and I discuss:
+    > 
+    > The many ways we expect leaders to be both superhuman and supremely human. How awesome it is to have new capacities to look forward to as we get older. How learning about adult development makes us more compassionate and less judgmental toward others.
+    > * The massive achievement of the Socialized Mind, when you first move beyond vast loneliness and self-centeredness and feel connected to others
+    > * How the Socialized Mind leaves you unprepared for many leadership situations
+    > * How much of emotional intelligence requires the Self-Authored Mind
+    > * The Self-Authored Mind, when you develop the code of your own life and realize that, no, people don’t “piss you off,” because you make your own emotions
+    > * How it can take decades for people to develop the Self-Authored Mind
+    > * The value of having a companion to help you deal with development’s uncertain gains and painful losses
+    > * The Self-Transforming Mind, when complexity and ambiguity become our natural playgrounds
 * [The NXTSTG.ORG Podcast](https://nxtstg.org/podcast/)
   > Our mission is to facilitate and catalyze the evolution of Organizations to act more like a living system. !
 * [Not Simple Podcast](https://www.cultivatingleadership.co.nz/research-resources/podcast)
