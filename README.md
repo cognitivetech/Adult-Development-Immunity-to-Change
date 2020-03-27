@@ -43,21 +43,21 @@
 
 [![](https://s115.podbean.com/pb/8e343f161f3e7332bcb6830fc5726d62/5e7c55d6/data2/fs66/755868/uploads/William_image.jpeg)](https://solutionsiq.podbean.com/e/adult-cognitive-development-and-the-agile-mindset-with-william-rowden/)
 
-### Dialectical Thought Form Framework
+## Dialectical Thought Form Framework
 
-* [Laske Social Science Archive, Section V: Writings (2015-2019) on DTF, the Dialectical Thought Form Framework](https://interdevelopmentals.org/?p=7286) 
-  > The Laske Social Science Archive gathers Otto Laske’s writings on organizations written between 1999 and 2019, many of which have retained their value vis a vis new fashions of management thinking. Its sections are numbered chronologically. The Archive makes available both texts and slides, the latter for pedagogical purposes. The articles gathered are bundled according to topic. They can be downloaded free of charge.
-* [Applying Bhaskar’s Four Moments of Dialectic to Reshaping Cognitive Development as a Social Practice1 Otto Laske](https://integral-review.org/issues/vol_11_no_3_laske_laske%27s_dialectical_thought_form_framework.pdf)
-  > Abstract:I am introducing into Dialectical Critical Realism (DCR) a developmental, dialogical,and dialectical epistemology for enhancing adults’ cognitive development toward dialectic. I do so for the sake of solving real-world problems in a holistic and transformational manner with a high likelihood of success. Emphasis is put on dialectical thinking as a social practice learned by way of a dialogue method called the Case Study Cohort (CSC) method, taughtattheInterdevelopmentalInstitute (IDM) since 2000
-* [A New Approach to Dialog: Teaching the Dialectical Thought Form Framework](https://dhp.3e9.myftpupload.com/wp-content/uploads/2020/02/2017b-Introduction-to-DTF.pdf)
-  > Technologically driven culture change, impoverishment of undergraduate and graduate education due to a focus on obtaining employment, and the growth of global risks of human survival in the context of the depletion of nature increasingly put an unforeseen emphasis on human dialog and thinking. They also make seemingly “academic” investigations into the cognitive development of adults (on which quality of thinking and dialog depend) pragmatically relevant with unforeseen urgency. This introduction to the Dialectical Thought Form Framework (DTF) by way of an introduction to theManual of dialectical thought forms (DTFM; Laske 2008),while delving into the intricacies of the thought form structure of thinking and its assessment, was primarily conceived as a tool for making dialectical thinking better known, as well as a tool for designing programs for teaching it, beginning in high school.
-* [#1 Constructive Developmental Framework and Dialectical Thinking](https://open.spotify.com/episode/6JJ4G1P13wkYrAg7RJfK4t), May 2019 - A conversation about CDF. With Professor Otto Laske and Paul Anwandter.
 * [Adult Development by Otto Laske](https://nxtstg.org/2019/05/16/adult-develoment-by-otto-laske/)
   > Otto is internationally known as a teacher and mentor of evidence-based developmental coaching. Since 2000, he has educated an international student body in a methodology of social- emotional and cognitive coaching called CDF (Constructive Developmental Framework) at the Interdevelopmental Institute, Gloucester, MA, USA. He has successfully worked with teams since 2015, especially teams on their way to self-organization.
 * [Laske Social Science Archive, Section IV: Writings (2010-2017) on CDF, the Constructive Developmental Framework](https://interdevelopmentals.org/?p=7258)
   > The Laske Social Science Archive gathers Otto Laske’s writings on organizations written between 1999 and 2019, many of which have retained their value vis a vis new fashions of management thinking. Its sections are numbered chronologically. The Archive makes available both texts and slides, the latter for pedagogical purposes. The articles gathered are bundled according… [Read More]
+* [#1 Constructive Developmental Framework and Dialectical Thinking](https://open.spotify.com/episode/6JJ4G1P13wkYrAg7RJfK4t), May 2019 - A conversation about CDF. With Professor Otto Laske and Paul Anwandter.
+* [Laske Social Science Archive, Section V: Writings (2015-2019) on DTF, the Dialectical Thought Form Framework](https://interdevelopmentals.org/?p=7286) 
+  > The Laske Social Science Archive gathers Otto Laske’s writings on organizations written between 1999 and 2019, many of which have retained their value vis a vis new fashions of management thinking. Its sections are numbered chronologically. The Archive makes available both texts and slides, the latter for pedagogical purposes. The articles gathered are bundled according to topic. They can be downloaded free of charge.
+* [Applying Bhaskar’s Four Moments of Dialectic to Reshaping Cognitive Development as a Social Practice1 Otto Laske](https://integral-review.org/issues/vol_11_no_3_laske_laske%27s_dialectical_thought_form_framework.pdf)
+  > I am introducing into Dialectical Critical Realism (DCR) a developmental, dialogical,and dialectical epistemology for enhancing adults’ cognitive development toward dialectic. I do so for the sake of solving real-world problems in a holistic and transformational manner with a high likelihood of success. Emphasis is put on dialectical thinking as a social practice learned by way of a dialogue method called the Case Study Cohort (CSC) method, taught at the Interdevelopmental Institute (IDM) since 2000
+  >![](https://monosnap.com/image/OsyfytZLsiy9zR83SgSyhfqkm8DZde)
+* [A New Approach to Dialog: Teaching the Dialectical Thought Form Framework](https://dhp.3e9.myftpupload.com/wp-content/uploads/2020/02/2017b-Introduction-to-DTF.pdf)
+  > Technologically driven culture change, impoverishment of undergraduate and graduate education due to a focus on obtaining employment, and the growth of global risks of human survival in the context of the depletion of nature increasingly put an unforeseen emphasis on human dialog and thinking. They also make seemingly “academic” investigations into the cognitive development of adults (on which quality of thinking and dialog depend) pragmatically relevant with unforeseen urgency. This introduction to the Dialectical Thought Form Framework (DTF) by way of an introduction to theManual of dialectical thought forms (DTFM; Laske 2008),while delving into the intricacies of the thought form structure of thinking and its assessment, was primarily conceived as a tool for making dialectical thinking better known, as well as a tool for designing programs for teaching it, beginning in high school.
 
-<img src="https://monosnap.com/image/OsyfytZLsiy9zR83SgSyhfqkm8DZde"/>
 
 ## Subject-Object Relations
 
@@ -67,6 +67,7 @@
   > This chapter explores the intricacies of the Subject-Object Interview, the measure of Robert Kegan’s theory of adult development and thus one of the primary means of assessing self-authorship. The author focuses on using the interview as an intervention to assist adults in moving toward self-authorship and the dilemmas involved in doing so.
   > [...]
   > I asked Bryce questions that were designed to reach for the edges of his understanding—so that I could have a sense of what he was taking responsibility for, what he saw as inside his own control (e.g. what things he self-authored), and what things he directed more externally.
+
 
 ## Organizational Development
 
@@ -80,7 +81,8 @@
   > It’s time, Robert says, to create genuine growth cultures, where everyone, not only the high potentials, are engaged in growing to their fullest potential.
   > [...]
   > This means no less than baking the growth of your people into the day-to-day activities of the company. Robert and his team spent time within companies that do exactly just that, what he calls deliberately developmental organisations. (including Ray Dalio’s Bridgewater)
-
+* [Changing on the Job: Developing Leaders for a Complex World](https://www.amazon.com/Changing-Job-Developing-Leaders-Complex/dp/0804786968/)
+  > Listen to people in every field and you'll hear a call for more sophisticated leadership—for leaders who can solve more complex problems than the human race has ever faced. But these leaders won't simply come to the fore; we have to develop them, and we must cultivate them as quickly as is humanly possible. Changing on the Job is a means to this end. As opposed to showing readers how to play the role of a leader in a "paint by numbers" fashion, Changing on the Job builds on theories of adult growth and development to help readers become more thoughtful individuals, capable of leading in any scenario. Moving from the theoretical to the practical, and employing real-world examples, author Jennifer Garvey Berger offers a set of building blocks to help cultivate an agile workforce while improving performance. Coaches, HR professionals, thoughtful leaders, and anyone who wants to flourish on the job will find this book a vital resource for developing their own capacities and those of the talent that they support.
 
 ## Immunity to Change
 
@@ -139,6 +141,32 @@
   > Real growth happens when people have a chance to take what they’ve learned and immediately apply it to their lives. Our flagship program, Elevated Leadership, involves 5 session days that take place on a 6-week interval with 2-week touch points between sessions. Through both large group learning and intentional dialog in Cross Mentoring Groups, we provide the structure and accountability necessary for learning and growth. The program also includes various exercises and assessments to help participants come to a deeper understanding of themselves, both their strengths and their opportunities for growth. This unique approach accelerates Vertical development, resulting in meaningful impact and lasting leader growth.
 * [My Leaders Lyceum Experience](https://www.jasonscottmontoya.com/leaders-lyceum)
 
+## Cultivating Leadership
+
+> While our experience and our academic credentials are top notch, what makes us truly distinctive is our passion for supporting leaders with practical and transformative experiences and conversations. We also walk the talk as a deliberately developmental, complexity-based organization.
+
+* [Podcasts & videos](https://www.cultivatingleadership.co.nz/research-resources/podcasts-videos-articles)
+* [Papers and Articles](https://www.cultivatingleadership.co.nz/research-resources/ourwriting)
+* [Unlocking Leadership Mindtraps](https://www.cultivatingleadership.co.nz/books/unlocking-leadership-mindtraps), Jennifer Garvey Berger - How to thrive in complexity
+  > Using her background in adult development, complexity theories, and leadership consultancy, Garvey Berger discerns five pernicious and pervasive “mind traps” to frame the book. 
+  > - the desire for simple stories
+  > - our sense that we are right
+  > - our desire to get along with others in our group
+  > - our fixation with control
+  > - our constant quest to protect and defend our egos.
+  >
+  > In addition to understanding why these natural impulses steer us wrong in a fast-moving world, leaders will get powerful questions and approaches that help them escape these patterns.
+* [Simple Habits for Complex Times](https://www.cultivatingleadership.co.nz/books/simplehabitsforcomplextimes), Jennifer Garvey Berger and Keith Johnston - Powerful practices for leaders
+  > Simple Habits for Complex Times provides three integral practices that enable leaders to navigate the unknown. By taking multiple perspectives, asking different questions, and seeing more of their system, leaders can better understand themselves, their roles, and the world around them. 
+* [Changing on the Job](https://www.cultivatingleadership.co.nz/books/changingonthejob), Jennifer Garvey Berger - Developing leaders for a complex world
+  > [Summary](https://muse.jhu.edu/article/548309/summary): Our roles as higher education professionals require complex leadership capacities— capacities that enable us to make decisions amidst competing perspectives, establish priorities among multiple commitments, and maintain partnerships despite conflict or resistance. In Changing on the Job: Developing Leaders for a Complex World, Berger explains that gaining such capacities is not simply a matter of gaining new skills or using different styles but rather involves developmental growth by which leaders cultivate increasingly broader, more complex ways of making meaning. Drawing upon her expertise in Kegan’s (1982, 1994) theory of self-evolution and her experiences as a leadership development consultant, Berger provides an accessible yet rich resource for fostering one’s own growth and the growth of others as leaders. While Changing on the Job is applicable to a wide variety of learning contexts and educational roles, it is most directly relevant for professional development purposes and supervisory or mentorship roles. Ultimately, Berger highlights the importance of cultivating complex leadership capacities within ourselves and our professional communities as well as among our students.
+* [Why Purpose Matters](https://www.cultivatingleadership.co.nz/books/why-purpose-matters), Nicholas Barnett and Rodney Howard - And How it Can Transform Your Organisation
+  > In Why Purpose Matters, Rodney Howard and co-author, Nicholas Barnett, explain how organisations can discover their purpose and then through an authentic and sustained leadership commitment, embed it in their culture and make it their new way of organisational life.
+  > 
+  > Ultimately, this book is about transformation that shapes a whole new organisational identity from the inside out and adds new focus and energy to employee endeavours.
+* [Choose Your Stories](https://www.cultivatingleadership.co.nz/books/choose-your-stories) - John Sautelle
+  > Drawing on the latest research in psychology, neuroscience, adult development theory and 20 years’ experience as an executive coach, Sautelle helps leaders use their “embodied wisdom” to surface and rewrite fear-based stories, freeing them to make the changes they want to make. Through rich case studies which explore Purpose, Identity, and Values stories we inherit, adopt, create and sometimes disown, in Choose Your Stories, Change Your Life Sautelle brings this change process to life.
+
 
 ## ETC
 
@@ -173,3 +201,5 @@
   > The Amiel Show is podcast dedicated to increasing the quality of leadership in our complex world. My listeners are leaders who hunger to increase their impact and develop their full potential as human beings—and the consultants and coaches who partner with them. This show is interview-rich. I ask executives and thought leaders to provide deep insights and actionable practices that you can use today and for the rest of your life.
 * [The NXTSTG.ORG Podcast](https://nxtstg.org/podcast/)
   > Our mission is to facilitate and catalyze the evolution of Organizations to act more like a living system. !
+* [Not Simple Podcast](https://www.cultivatingleadership.co.nz/research-resources/podcast)
+  > We created Not Simple, because we care deeply about the way we as humans oversimplify the complex problems of the world. Will we solve those problems in this podcast? Probably not! But we encourage you to join host Wendy Bittner as she embraces their complexity and tries to think differently.
