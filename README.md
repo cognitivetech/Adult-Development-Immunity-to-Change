@@ -216,3 +216,5 @@
   > Our mission is to facilitate and catalyze the evolution of Organizations to act more like a living system. !
 * [Not Simple Podcast](https://www.cultivatingleadership.co.nz/research-resources/podcast)
   > We created Not Simple, because we care deeply about the way we as humans oversimplify the complex problems of the world. Will we solve those problems in this podcast? Probably not! But we encourage you to join host Wendy Bittner as she embraces their complexity and tries to think differently.
+* [Human Current](http://www.human-current.com) - The Complexity Podcast
+  > Exploring complexity science & systems thinking in the workplace and beyond.
