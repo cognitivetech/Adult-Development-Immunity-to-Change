@@ -25,6 +25,17 @@
 | (4) Institutional S: personal autonomy, self-system identity O: mutuality, interpersonal concordance | Culture of identity or self-authorship (in love or work). Typically: group involvement in career, admission to public arena.  |
 | (5) Interindividual S: interpenetration of systems O: personal autonomy, self-system identity | Culture of intimacy (in love and work). Typically: genuinely adult love relationship. |
 
+* [Robert Kegan - The Five Stages of Adult Development (And Why You Probably Aren't Stage 5)](https://player.fm/series/emerge-making-sense-of-whats-next/robert-kegan-the-five-stages-of-adult-development-and-why-you-probably-arent-stage-5)
+  > - What is a good definition of an 'adult'?
+  > - The phasic vision of adult development
+  > - The variety of developmental logics in the human mind
+  > - A tour of the 5 stages of adult development
+  > - What people get wrong about his 5 Stage model of human development
+  > - Why you are almost certainly not ‘Stage 5’ if you're under the age of 40
+  > - The gap between philosophical understanding and developmental attainments
+  > - Why you might take on a Stage 5 philosophical orientation from the Stage 4 developmental level (and what that might look like)
+  > - The most important developmental stage transition for the majority of humans
+  > - What transcending the limits of the socialized mind means for our planetary culture
 * [Robert Kegan and Ken Wilber — The Evolving Self: Part 1](https://podcasts.apple.com/uz/podcast/robert-kegan-and-ken-wilber-the-evolving-self-part-1/id1378476230?i=1000424998309) -  Everyone Is Right [part 2](https://podcasts.apple.com/uz/podcast/robert-kegan-and-ken-wilber-the-evolving-self-part-2/id1378476230?i=1000424998310)
   > Robert Kegan, the author of The Evolving Self and In Over Our Heads, explores the vital role of interior development in creating a more inclusive and integrated world, as well as the importance of the appropriate use of discriminating awareness.
   >
@@ -218,3 +229,8 @@
   > We created Not Simple, because we care deeply about the way we as humans oversimplify the complex problems of the world. Will we solve those problems in this podcast? Probably not! But we encourage you to join host Wendy Bittner as she embraces their complexity and tries to think differently.
 * [Human Current](http://www.human-current.com) - The Complexity Podcast
   > Exploring complexity science & systems thinking in the workplace and beyond.
+* [Emerge: Making Sense of What's Next](https://www.whatisemerging.com/emergepodcast) - an inquiry into the next phase of the human experiment. 
+  * [Jonathan Reams - Waking Up & Growing Up: How Seeing the Virtuality of Self Supports Adult Development](https://player.fm/series/emerge-making-sense-of-whats-next/jonathan-reams-waking-up-growing-up-how-seeing-the-virtuality-of-self-supports-adult-development)
+    > Jonathan Reams works at the Norwegian University of Science and Technology (NTNU), serves as Editor-in Chief of Integral Review, and is a co-founder of the Center for Transformative Leadership and of the European Center for Leadership Practice. He brings awareness based leadership development practices to his work, focusing on how the inner workings of human nature can develop leadership capacities for today’s complex challenges.
+    > 
+    > His recent research and practice has focused on subjects such as; the impact of Immunity to Change based coaching, theoretical foundations of resistance to change, the integration of psychological and cognitive skill based assessments and the use of narrative based tools combined with developmentally informed reflection prompts for scaling development.
