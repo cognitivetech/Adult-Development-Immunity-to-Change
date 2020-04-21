@@ -52,7 +52,10 @@
 * [Adult Cognitive Development and the Agile Mindset with William Rowden](https://solutionsiq.podbean.com/e/adult-cognitive-development-and-the-agile-mindset-with-william-rowden/)
   > The science of Adult Cognitive Development has been around for quite some time, but William Rowden maps that science to the Agile Mindset and an Agile Transformation. His insights are fascinating and help him identify behaviors that are not aligned with an Agile mindset, and how to help his clients move in the correct development direction.  William is speaking not from theory, but from practical application within clients in the US, China and Mexico.
 
-[![](https://s115.podbean.com/pb/8e343f161f3e7332bcb6830fc5726d62/5e7c55d6/data2/fs66/755868/uploads/William_image.jpeg)](https://solutionsiq.podbean.com/e/adult-cognitive-development-and-the-agile-mindset-with-william-rowden/)
+[![](https://i.imgur.com/enkX2Q9.jpg)](https://solutionsiq.podbean.com/e/adult-cognitive-development-and-the-agile-mindset-with-william-rowden/)
+
+* [From Piaget to Dawson: The evolution of adult developmental metrics](https://www.youtube.com/watch?v=W0PDUK3tcN0)
+
 
 ## Dialectical Thought Form Framework
 
@@ -97,6 +100,12 @@
 
 ## Immunity to Change
 
+* [HarvardX - edX - ImmunityToChange.pdf](https://courses.edx.org/c4x/HarvardX/GSE1x/asset/ImmunityToChange.pdf)
+  > Since its 2009 publication, Immunity to Change: How to Overcome It and Unlock the Potential in Yourself and Your Organization, by Robert Kegan and Lisa Laskow Lahey, has changed the lives of individuals and organizations across the globe. The enclosed excerpts—selected as required reading for this course—are pulled directly from this powerful and provocative book.
+  > In Immunity to Change, the authors show how our individual beliefs combined with the collective mind-sets in our organizations create a natural and commanding immunity to change. By explaining how this mechanism holds us back, Kegan and Lahey give us the keys to unlock our potential and finally move forward. And by pinpointing and uprooting our own immunities to change, we can bring our organizations forward with us.
+  > In addition to the enclosed readings, the full book includes hands-on assessments, tools, and compelling case studies to help all of us overcome forces of inertia to transform work and life.
+* [HarvardX - edX - Right_Weight_Right_Mind.pdf](https://courses.edx.org/c4x/HarvardX/GSE1x/asset/Right_Weight_Right_Mind.pdf)
+  > The book, Right Weight, Right Mind: The ITC Approach to Permanent Weight Loss, by Robert Kegan and Lisa Laskow Lahey, provides readers with tools to help them bridge the gap between what they want to do and what they can do in transforming their relationship to food, diet and exercise and, most importantly, their selves.
 * [How the Way We Talk Can Change the Way We Work](https://www.gse.harvard.edu/news/01/01/how-way-we-talk-can-change-way-we-work) (2001), Robert Kegan, Lisa Laskow Lahey
   > Kegan and Lahey's technology helps us see that, for every unrealized commitment to change we genuinely hold and act out of, we also have a conflicting and harder-to-recognize commitment that prevents the very change we desire. A CEO, for example, may hold a genuine commitment to empowering her employees and fostering more collaboration in her organization. She may even take steps to distribute leadership, designate staff responsibilities, and provide professional development to enhance individual employees' abilities to assume new duties. But, at the same time, a part of her remains tacitly committed to maintaining control, or to feeling indispensible, or to preserving past loyalties. Subtly or overtly, she undermines her new initiatives by behavioring in service to these hidden commitments. These conflicting commitments create a dynamic equilibrium--her own version of an immune system--preventing real and lasting change. How can she overcome this immune system? And, if she succeeds, how might her organization overcome its own immune system?
 * [The Real Reason People Won’t Change](https://hbr.org/2001/11/the-real-reason-people-wont-change) by Robert Kegan	and Lisa Lahey 
