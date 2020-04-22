@@ -54,7 +54,9 @@
 
 [![](https://i.imgur.com/enkX2Q9.jpg)](https://solutionsiq.podbean.com/e/adult-cognitive-development-and-the-agile-mindset-with-william-rowden/)
 
-* [From Piaget to Dawson: The evolution of adult developmental metrics](https://www.youtube.com/watch?v=W0PDUK3tcN0)
+* [From Piaget to Dawson: The evolution of adult developmental metrics](https://www.youtube.com/watch?v=W0PDUK3tcN0) -youtube
+* [Acting on purpose: the reflections of MIT student entrepreneurs](https://dspace.mit.edu/handle/1721.1/122092)
+  > The study of social systems has increasingly relied on data collection and analysis to draw conclusions. In parallel, the research community has often tried to understand entrepreneurs quantitatively, e.g. by understanding which behaviours or personality traits most often correlated with entrepreneurial success. While a quantified representation is essential in modeling what is being studied, it hides away the mental processes that create behaviours. Arguably, the people who engage the most directly with systemic change are entrepreneurs. They have to create their own system (a company) and connect it to its wider network (clients, investors, etc.). Most importantly, the more uncommon their idea is, the less they can rely on existing frames to bring their ideas to fruition, and the more they have to reflect on the dynamics of their wider context and how their company can integrate to it.
 
 
 ## Dialectical Thought Form Framework
