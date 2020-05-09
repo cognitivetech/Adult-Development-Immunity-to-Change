@@ -58,7 +58,6 @@
 * [Acting on purpose: the reflections of MIT student entrepreneurs](https://dspace.mit.edu/handle/1721.1/122092)
   > The study of social systems has increasingly relied on data collection and analysis to draw conclusions. In parallel, the research community has often tried to understand entrepreneurs quantitatively, e.g. by understanding which behaviours or personality traits most often correlated with entrepreneurial success. While a quantified representation is essential in modeling what is being studied, it hides away the mental processes that create behaviours. Arguably, the people who engage the most directly with systemic change are entrepreneurs. They have to create their own system (a company) and connect it to its wider network (clients, investors, etc.). Most importantly, the more uncommon their idea is, the less they can rely on existing frames to bring their ideas to fruition, and the more they have to reflect on the dynamics of their wider context and how their company can integrate to it.
 
-
 ## Dialectical Thought Form Framework
 
 * [Adult Development by Otto Laske](https://nxtstg.org/2019/05/16/adult-develoment-by-otto-laske/)
@@ -77,13 +76,24 @@
 
 ## Subject-Object Relations
 
-* [The Psychology of Leadership and Success, Fears and Obstacles](https://podcasts.apple.com/us/podcast/psychology-leadership-success-fears-obstacles/id1433800594?i=1000418464268) - The Leader Development Podcast
-  > Understanding that which holds us back, and how to break free. This is at the core of personal change, no matter what you want to change. We often face situations where we are unable to make the major change in our lives or at work we so desperately want. This episode is based on the concept of Subject-Object relations stemming from the work of Dr. Robert Kegan. This is about what it means to help people see a bigger world, to better understand themselves, to change their behavior, and to make better decisions. Do away with self-defeating behaviors, and getting rid of limiting beliefs. It’s time to succeed.
-* [USING THE SUBJECT-OBJECT INTERVIEW TO PROMOTE AND ASSESS SELF-AUTHORSHIP](https://www.cultivatingleadership.co.nz/site/uploads/Berger-Chapter-14-Prepublication-Draft-1.pdf), Jennifer Garvey Berger, Ed D
-  > This chapter explores the intricacies of the Subject-Object Interview, the measure of Robert Kegan’s theory of adult development and thus one of the primary means of assessing self-authorship. The author focuses on using the interview as an intervention to assist adults in moving toward self-authorship and the dilemmas involved in doing so.
-  > [...]
-  > I asked Bryce questions that were designed to reach for the edges of his understanding—so that I could have a sense of what he was taking responsibility for, what he saw as inside his own control (e.g. what things he self-authored), and what things he directed more externally.
+> The psychological idea is that the underlying architecture or transformational grammar of qualitative change (genuinely [negentropic](https://en.wikipedia.org/wiki/Negentropy) development) is the movement from subject to object-that is, the movement of our meaning making from a place where we are its captive to a place where we can look at it, reexamine it, and possibly alter it. - [*the Way We Talk Can Change the Way We Work*](https://www.gse.harvard.edu/news/01/01/how-way-we-talk-can-change-way-we-work)
 
+* [The Psychology of Leadership and Success, Fears and Obstacles](https://podcasts.apple.com/us/podcast/psychology-leadership-success-fears-obstacles/id1433800594?i=1000418464268) - The Leader Development Podcast
+  > The idea of subject object transition which is a focus of Dr. Robert Kegan a psychologist and professor at Harvard University. He stresses that not only can we not hold onto certain understandings of ourselves and the world, but in a way certain things hold us. We are almost literally subjected to these distortions of reality.  
+* [USING THE SUBJECT-OBJECT INTERVIEW TO PROMOTE AND ASSESS SELF-AUTHORSHIP](https://www.cultivatingleadership.co.nz/site/uploads/Berger-Chapter-14-Prepublication-Draft-1.pdf), Jennifer Garvey Berger, Ed D
+  > The process of growth as defined by this theory is about moving more and more of what is unseen and unexamined in the way we understand the world—those things to which we are subject —to a place where they can be seen and examined—and become objects for our inspection, and, if we chose, for our reflective action. Our unquestioned beliefs about the world are held implicitly, and those beliefs shape our experience of the world and the possibilities we perceive. As we begin to question our beliefs, ideas, theories, etc., our inquiry reveals new possibilities and allows us to deal with greater and greater levels of complexity.
+  > 
+  > The most profound example of a move from subject to object is when gradually, over time, entire meaning-making systems move from being hidden (subject) to being seen (object). 
+* [Epistemology, Fourth Order Consciousness, and the Subject-Object Relationship or... How the Self Evolves with Robert Kegan](http://image.jesuits.org/OIS/media/171026%20Epistemology%20and%20the%20Fourth%20Order%20of%20Consciousness.pdf) by Elizabeth Debold (What is Enlightenment Magazine) 
+  > So what is the "subject-object relationship"? It is a fundamental distinction in the way that we make sense of our experience—a distinction that shapes our thinking, our feeling, our social relating, and our ways of relating to internal aspects of ourselves. The subject-object relationship is not just an abstraction but a living thing in nature. 
+  >
+  > What I mean by "**object**" are those aspects of our experience that are apparent to us and can be looked at, related to, reflected upon, engaged, controlled, and connected to something else. We can be objective about these things, in that we don't see them as "me." But other aspects of our experience we are so identified with, embedded in, fused with, that we just experience them as ourselves. This is what we experience subjectively—the "**subject**" half of the subject-object relationship. 
+  > 
+  > What gradually happens is not just a linear accretion of more and more that one can look at or think about, but a qualitative shift in the very shape of the window or lens through which one looks at the world. *A given subject-object relationship establishes the shape of the window*. Thus, *for a certain period of time, a particular distinction between what is object and what is subject persists. Then you know the world through that system, and while your knowing gets increasingly elaborated, it all goes on within the terms of that system*. 
+  >
+  > So, for example, when you get to be what we call a "concrete thinker," usually between the ages of six and ten, you are able to learn facts, more and more facts, but you're still just learning the facts. Children at this age and stage collect baseball cards, bugs, leaves from trees—they come to understand the world around them by identifying, naming, and labeling the objects in it. 
+  >
+  > But you have to make a qualitative move to transform the subject-object relationship before you are able to organize these facts into bigger abstract ideas, themes, and values. This, then, becomes the next epistemology. Each qualitative move takes a whole mental structure that had been experienced as subject and shifts it so that it becomes seen as object. 
 
 ## Organizational Development
 
