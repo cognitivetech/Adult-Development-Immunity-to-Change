@@ -94,6 +94,8 @@
   > So, for example, when you get to be what we call a "concrete thinker," usually between the ages of six and ten, you are able to learn facts, more and more facts, but you're still just learning the facts. Children at this age and stage collect baseball cards, bugs, leaves from trees—they come to understand the world around them by identifying, naming, and labeling the objects in it. 
   >
   > But you have to make a qualitative move to transform the subject-object relationship before you are able to organize these facts into bigger abstract ideas, themes, and values. This, then, becomes the next epistemology. Each qualitative move takes a whole mental structure that had been experienced as subject and shifts it so that it becomes seen as object. 
+* [In Over Our Heads: Development as a Lifelong Journey](https://integrallife.com/over-our-heads/) Robert Kegan and Ken Wilber
+  > Interestingly, this process of “subject becoming object” does not just describe the process of “vertical growth” through psychological stages of consciousness, but also “horizontal growth” through states of spiritual awareness and awakening. Meditation, for example, is a practice of making subject into object: of simply witnessing our own subjective minds with non-attached equanimity, experiencing our subjective thoughts, emotions, sensations, and impulses as objects in our awareness, like clouds floating through the empty expanse of the sky. With enough training and practice, the spiritual path ultimately leads us to the point of “Absolute Subjectivity”—that point where we are completely “emptied out” and there is no more subject left to be made into object, and all that remains is the effortless and seamless embrace of nondual awareness.
 
 ## Organizational Development
 
